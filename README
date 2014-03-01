@@ -1,0 +1,10 @@
+This is a simple game circa Windows 95...
+
+--Install--
+Install Python and PyGame and then run the script.
+
+--Instructions--
+left click places a horizontal line
+right click places a vertical line
+don't let a ball touch them while they are expanding
+repeat
